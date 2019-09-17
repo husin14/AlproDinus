@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553475728 source:c:\users\husin sufi\desktop\tugas 1\main.c
+	"pustaka.h"
+
+1553475724 c:\users\husin sufi\desktop\tugas 1\pustaka.h
+
+1553475767 source:c:\users\husin sufi\desktop\tugas 1\pustaka.c
+	"pustaka.h"
+
+1553491258 source:h:\algoritma pemrogram\tugas pap 4\tugas 1\pustaka.c
+	"pustaka.h"
+
+1553475726 h:\algoritma pemrogram\tugas pap 4\tugas 1\pustaka.h
+
+1553491492 source:h:\algoritma pemrogram\tugas pap 4\tugas 1\main.c
+	"pustaka.h"
+

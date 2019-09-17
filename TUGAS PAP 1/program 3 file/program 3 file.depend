@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1551659278 source:c:\users\husin sufi\desktop\program 3 file\pustaka.c
+	"pustaka.h"
+
+1551659278 source:c:\users\husin sufi\desktop\program 3 file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1551659251 c:\users\husin sufi\desktop\program 3 file\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

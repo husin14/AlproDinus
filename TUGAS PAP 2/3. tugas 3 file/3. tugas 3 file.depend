@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1552194432 source:e:\c\c #share\pertemuan alpro\ketiga\main.c
+	"pustaka.h"
+
+1552194440 e:\c\c #share\pertemuan alpro\ketiga\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1552194440 source:e:\c\c #share\pertemuan alpro\ketiga\pustaka.c
+	"pustaka.h"
+
+1552194432 source:e:\c\c #share\pertemuan alpro\3. tugas 3 file\main.c
+	"pustaka.h"
+
+1552194440 e:\c\c #share\pertemuan alpro\3. tugas 3 file\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1552194440 source:e:\c\c #share\pertemuan alpro\3. tugas 3 file\pustaka.c
+	"pustaka.h"
+

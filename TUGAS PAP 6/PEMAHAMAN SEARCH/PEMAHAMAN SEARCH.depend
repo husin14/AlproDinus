@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1554105162 source:c:\users\labdas\desktop\pemahaman search\main.c
+	"pustaka.h"
+
+1554105853 c:\users\labdas\desktop\pemahaman search\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1554105688 source:c:\users\labdas\desktop\pemahaman search\pustaka.c
+	"pustaka.h"
+
+1554105866 source:h:\algoritma pemrogram\tugas pap 6\pemahaman search\main.c
+	"pustaka.h"
+
+1554105854 h:\algoritma pemrogram\tugas pap 6\pemahaman search\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1554105690 source:h:\algoritma pemrogram\tugas pap 6\pemahaman search\pustaka.c
+	"pustaka.h"
+

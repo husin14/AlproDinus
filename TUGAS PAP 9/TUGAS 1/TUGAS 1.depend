@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558668298 source:c:\users\husin sufi\desktop\tugas 1\main.c
+
+1558670547 source:c:\users\husin sufi\desktop\tugas 1\source.c
+	"header.h"
+
+1558670547 c:\users\husin sufi\desktop\tugas 1\header.h
+	<stdio.h>
+	<stdlib.h>
+

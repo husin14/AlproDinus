@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554108291 source:c:\users\labdas\desktop\binary search\main.c
+	"pustaka.h"
+
+1554107996 c:\users\labdas\desktop\binary search\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1554108103 source:c:\users\labdas\desktop\binary search\pustaka.c
+	"pustaka.h"
+

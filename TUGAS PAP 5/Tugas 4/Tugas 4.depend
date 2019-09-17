@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554088196 source:h:\algoritma pemrogram\tugas pap 5\tugas 4\main.c
+	"pustaka.h"
+
+1554055932 h:\algoritma pemrogram\tugas pap 5\tugas 4\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1554056322 source:h:\algoritma pemrogram\tugas pap 5\tugas 4\pustaka.c
+	"pustaka.h"
+
